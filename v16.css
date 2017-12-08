@@ -1,9 +1,8 @@
 /* Created by PUTOKSNIS */
-{
-#room-bar .icon-room {
-    background: url(https://i.imgur.com/fdJ4Gfb.png);
-    width: 31px;
-    height: 31px
+.icon-room {
+	width: 84px;
+	top: 14px !important; left: 5px !important;
+	background: url(.) 0 / cover no-repeat !important;
 }
 #room-name, #room-host {
 	left: 95px;
