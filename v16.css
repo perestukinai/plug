@@ -8,7 +8,7 @@
 	left: 95px;
 }
 .room-background {
-	background: url(https://i.imgur.com/dDqL8N6.jpg) 0 0 / 1600px 900px no-repeat !important;
+	background: url(https://i.imgur.com/HadU5Jb.jpg) 0 0 / 1600px 900px no-repeat !important;
 }
 #playback .background img {
 	display: none;
@@ -409,53 +409,53 @@
 }
 }/*@@@@@(HOST)@@@@@*/
 .icon-chat-host {
-	background: url(https://i.imgur.com/O7Eb30Z.png);
+	background: url(https://i.imgur.com/xFGF6r5.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-host + span,
 #user-lists .group.host ~ .user span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #ffffff !important;
+	color: #ff0033 !important;
 }
 #user-lists .group.host {
-	color: #ffffff;
+	color: #ff0033;
 	background: linear-gradient(to right, hsla(0, 0%, 100%, 0.5), hsla(0, 0%, 100%, 0.5)) !important;
 	top: 1px;
 }
 /*@@@@@(CO-HOSTS)@@@@@*/
 .icon-chat-cohost {
-	background: url(https://i.imgur.com/O7Eb30Z.png);
+	background: url(https://i.imgur.com/Ycnbl1b.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-cohost + span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span {
-	color: #ffffff !important;
+	color: #ffff66 !important;
 }
 }/*@@@@@(MANAGER)@@@@@*/
 .icon-chat-manager {
-	background: url(https://i.imgur.com/LKl1TjV.png);
+	background: url(https://i.imgur.com/dsYj9PJ.png);
 	background-position: 2px 0 !important;
 }
 .icon-chat-manager + span,
 #user-lists .group.manager ~ .user span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #990000 !important;
+	color: #00ff33 !important;
 }
 #user-lists .group.manager {
-	color: #990000;
+	color: #00ff33;
 	background: linear-gradient(to right, hsla(0,100%,20%,.5), hsla(0,100%,30%,.5)) !important;
 }/*@@@@@(BOUNCER)@@@@@*/
 .icon-chat-bouncer {
-	background: url(https://i.imgur.com/8plo73x.png);
+	background: url(https://i.imgur.com/uEYGKg6.png);
 	background-position: 1px 0 !important;
 }
 .icon-chat-bouncer + span,
 #user-lists .group.bouncer ~ .user span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #FACC2E !important;
+	color: #66ffcc !important;
 }
 #user-lists .group.bouncer {
-	color: #FACC2E;
+	color: #66ffcc;
 	background: linear-gradient(to right, hsla(52, 100%, 40%, 0.5), hsla(52, 100%, 50%, 0.5)) !important;
 }
 }/*@@@@@(DJ)@@@@@*/
