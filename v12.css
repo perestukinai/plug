@@ -1,7 +1,7 @@
 /*
- -————————————————————¬
- ¦     Role: NONE     ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦     Role: NONE     Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 #chat .cm.mention .un,
 #chat .cm.mention .timestamp {
@@ -19,9 +19,9 @@
 	color: hsl(77,100%,40%);
 }
 /*
- -————————————————————¬
- ¦     Role: YOU      ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦     Role: YOU      Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .is-you .name,
 #chat .cm.role-you .un {
@@ -39,9 +39,9 @@
 	color: hsl(200,100%,40%) !important;
 }
 /*
- -————————————————————¬
- ¦   Role: FRIEND     ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: FRIEND     Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 #chat .cm.role-friend ~ span {
 	color: #a68cd9;
@@ -57,9 +57,9 @@
 	color: hsl(260,50%,60%) !important;
 }
 /*
- -————————————————————¬
- ¦  Role: SILVER SUB  ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦  Role: SILVER SUB  Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-silver-subscriber {
 	background: url(http://i.imgur.com/nFbwvVJ.png) 0 0 / 15px no-repeat !important;
@@ -78,9 +78,9 @@
 	color: #8694b2 !important;
 }
 /*
- -————————————————————¬
- ¦   Role: GOLD SUB   ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: GOLD SUB   Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 /*
 .icon-chat-subscriber {
@@ -101,12 +101,12 @@
 	color: #8694b2 !important;
 }
 /*
- -————————————————————¬
- ¦   Role: RES. DJ    ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: RES. DJ    Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-dj {
-	background: url(https://i.imgur.com/KJC6J8C.png) 0 0 / 15px no-repeat !important;
+	background: url(.) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-dj ~ span,
 #dialog-user-role .role-menu .menu ul .dj span {
@@ -123,16 +123,16 @@
 	color: #b3b3b3 !important;
 }
 /*
- -————————————————————¬
- ¦   Role: BOUNCER    ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: BOUNCER    Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-bouncer {
-	background: url(https://i.imgur.com/8plo73x.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/uEYGKg6.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-bouncer ~ span,
 #dialog-user-role .role-menu .menu ul .bouncer span {
-	color: #FACC2E !important;
+	color: #66ffcc !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-bouncer {
@@ -142,18 +142,18 @@
 }
 #chat .mention.role-bouncer .name,
 #chat .mention.role-bouncer .timestamp {
-	color: #FACC2E !important;
+	color: #66ffcc !important;
 }/*
- -————————————————————¬
- ¦   Role: MANAGER    ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: MANAGER    Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-manager {
-	background: url(https://i.imgur.com/LKl1TjV.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/dsYj9PJ.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-manager ~ span,
 #dialog-user-role .role-menu .menu ul .manager span {
-	color: #990000 !important;
+	color: #00ff33 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-manager {
@@ -163,20 +163,20 @@
 }
 #chat .mention.role-manager .name,
 #chat .mention.role-manager .timestamp {
-	color: #990000 !important;
+	color: #00ff33 !important;
 }
 /*
- -————————————————————¬
- ¦   Role: CO-HOST    ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Role: CO-HOST    Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-cohost {
-	background: url(https://i.imgur.com/O7Eb30Z.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/Ycnbl1b.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-cohost ~ span,
 #dialog-user-role .dialog-body .role-menu .menu ul .cohost span,
 .role-cohost .un {
-	color: #ffffff !important;
+	color: #ffff66 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-cohost {
@@ -186,19 +186,19 @@
 }
 #chat .mention.role-cohost .name,
 #chat .mention.role-cohost .timestamp {
-	color: #ffffff !important;
+	color: #ffff66 !important;
 }
 /*
- -————————————————————¬
- ¦     Role: HOST     ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦     Role: HOST     Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-host {
-	background: url(https://i.imgur.com/O7Eb30Z.png) 0 0 / 15px no-repeat !important;
+	background: url(https://i.imgur.com/xFGF6r5.png) 0 0 / 15px no-repeat !important;
 }
 .icon-chat-host ~ span,
 #dialog-user-role .role-menu .menu ul .host span {
-	color: #ffffff !important;
+	color: #ff0033 !important;
 }
 /* --[MENTION]-- */
 #chat .mention.role-host {
@@ -208,12 +208,12 @@
 }
 #chat .mention.role-host .name,
 #chat .mention.role-host .timestamp {
-	color: #ffffff !important;
+	color: #ff0033 !important;
 }
 /*
- -————————————————————¬
- ¦     Role: BA       ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦     Role: BA       Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-ambassador {
 	background: url(https://dl.dropboxusercontent.com/s/cx6yrfbqlzwnks1/ba.png) 0 0 / 15px no-repeat !important;
@@ -233,9 +233,9 @@
 	color: hsl(30,80%,50%) !important;
 }
 /*
- -————————————————————¬
- ¦    Role: ADMIN     ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦    Role: ADMIN     Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 .icon-chat-admin {
 	background: url(https://dl.dropboxusercontent.com/s/cq80sqhvj2d5nju/admin.png) 0 0 / 15px no-repeat !important;
@@ -255,9 +255,9 @@
 	color: hsl(0,70%,50%) !important;
 }
 /*
- -————————————————————¬
- ¦    Users-list      ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦    Users-list      Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
  Needs to be in this order &
  separated from roles to
  maintain correct priorities */
@@ -274,25 +274,25 @@
 /* Co-hosts */
 #user-lists .group.host ~ .user .name,
 #chat .msg .text span.name.cohost {
-	color: #ffffff;
+	color: #ffff66;
 }
 /* Managers */
 #user-lists .group.manager {
-	color: #990000;
+	color: #00ff33;
 }
 #user-lists .group.manager ~ .user .name,
 #user-lists .user.role-manager .name,
 #chat .msg .text span.name.manager {
-	color: #990000;
+	color: #00ff33;
 }
 /* Bouncers */
 #user-lists .group.bouncer {
-	color: #FACC2E;
+	color: #66ffcc;
 }
 #user-lists .group.bouncer ~ .user .name,
 #user-lists .user.role-bouncer .name,
 #chat .msg .text span.name.bouncer {
-	color: #FACC2E;
+	color: #66ffcc;
 }
 /* DJs */
 #user-lists .group.dj {
@@ -312,9 +312,9 @@
 	color: #8694b2;
 }
 /*
- -————————————————————¬
- ¦   Miscellaneous    ¦
- L————————————————————-
+ -â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”Â¬
+ Â¦   Miscellaneous    Â¦
+ Lâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”-
 */
 #chat .cm.mention .msg {
 	/*fix RCS*/
