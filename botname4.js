@@ -309,7 +309,7 @@ software (which includes donations) must be passed on to the original author.
             botName: 'SYSTEM',
             language: 'english',
             chatLink: 'https://rawgit.com/PowerOfMad/bot/master/lt.json',
-            scriptLink: 'https://rawgit.com/perestukinai/plug/master/botname2.js',
+            scriptLink: 'https://rawgit.com/perestukinai/plug/master/botname4.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 50, // 1-200
             startupVolume: 15, // 0-100
