@@ -25,10 +25,10 @@
 }
 .slider .circle, #user-settings .slider .circle {
 	background: #fff !important;	
-	box-shadow: inset 0 0 10px rgba(0,0,0,.4);
+	box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.18);
 }
 #tooltip span, #tooltip.blue span {
-	background: radial-gradient(hsla(210,100%,30%,.9), hsla(220,100%,20%,.9));
+	background: radial-gradient(hsla(210, 100%, 30%, 0.45), hsla(220, 100%, 20%, 0.59));
 	border-radius: 13px 13px 13px 0
 }
 #tooltip.orange span {
@@ -83,13 +83,13 @@
 	box-shadow: inset 0 0 30px #000;
 }
 .app-header, #app-menu.in-room, #footer, #search, #video-only-dj {
-	background: linear-gradient(hsla(210,10%,20%,.8), hsla(210,10%,10%,.8));
+	background: linear-gradient(hsla(210, 10%, 82%, 1), hsla(210, 10%, 91%, 1));
 }
 .app-header {
 	box-shadow: 0px 1px 10px #000;
 }
 .app-header #history-button {
-	background: linear-gradient(hsl(210,10%,20%), hsl(210,0%,15%));
+	background: linear-gradient(hsl(210, 10%, 82%), hsl(210, 10%, 91%));
 }
 .app-header #header-panel-bar .selected, .app-header #history-button.selected {
 	background: linear-gradient(hsl(220,60%,40%), hsl(220,60%,20%));
@@ -115,7 +115,7 @@
 	box-shadow: 0 0 7px #5bf !important;
 }
 #footer-user .info {
-	background: linear-gradient(hsla(210,5%,10%,.8), hsla(210,5%,5%,.8));
+	background: linear-gradient(hsla(210, 10%, 82%, 1), hsla(210, 10%, 91%, 1));
 	text-shadow: 0 0 5px #000;
 }
 #footer-user .name span {
@@ -131,10 +131,10 @@
 	visibility: hidden;
 }
 #playlist-button {
-	background: linear-gradient(hsl(205,100%,50%), hsl(205,100%,40%));
+	background: linear-gradient(hsl(205, 100%, 83%), hsl(205, 100%, 87%));
 }
 #playlist-import, #playlist-create {
-	background: linear-gradient(135deg, hsl(205,10%,30%), hsl(205,10%,20%));
+	background: linear-gradient(135deg, hsl(205, 10%, 80%), hsl(205, 10%, 68%));
 }
 #playlist-import:hover, #playlist-create:hover {
 	background: linear-gradient(hsl(205,80%,50%), hsl(205,80%,40%));
@@ -146,18 +146,18 @@
 	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,.2));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
-	background: linear-gradient(hsla(210,10%,7%,.9), hsla(210,10%,5%,.9)) !important;
+	background: linear-gradient(hsla(210, 10%, 7%, 0.13), hsla(210, 10%, 5%, 0.25)) !important;
 }
 #user-menu .item:hover, #room-settings-menu .item:hover {
 	background: linear-gradient(hsla(205,100%,40%,.6), hsla(205,100%,30%,.6));
 	box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,.2);
 }
 #user-menu .item.selected, #room-settings-menu .item.selected {
-	background: linear-gradient(hsl(205,100%,40%), hsl(205,100%,30%));
+	background: linear-gradient(hsl(205, 100%, 63%), hsl(205, 100%, 52%));
 	box-shadow: inset 0 0 10px 1px hsla(0,0%,100%,.4);
 }
 #room-settings .general-settings button, #room-settings .general-settings .option.enabled button.off {
-	background: linear-gradient(hsl(220,5%,20%), hsl(220,5%,10%)) !important;
+	background: linear-gradient(hsl(205, 100%, 63%), hsl(205, 100%, 52%)) !important;
 	box-shadow: inset 0 0 2px hsla(0,0%,100%,.5) !important;
 }
 #room-settings .general-settings button:hover, #room-settings .general-settings .option.enabled button.off:hover {
@@ -174,7 +174,7 @@
 }
 .tab-menu button, #user-settings .container button, .subscribe-button, .dropdown, #dialog-user-role .role-menu {
 	border-radius: 10px;
-	background: linear-gradient(hsl(220,5%,20%), hsl(220,5%,10%));
+	background: linear-gradient(hsl(210, 10%, 82%), hsl(210, 10%, 91%));
 	box-shadow: inset 0 0 2px hsla(0,0%,100%,.5) !important;
 }
 #user-settings .container button:hover {
@@ -208,10 +208,10 @@
 	color: #FFF;
 }
 .dropdown dd, #chat-suggestion, #dialog-user-role .role-menu .menu ul li, #search-suggestion li, #dialog-restricted-media .row.selected {
-	background: hsla(210,10%,10%,.8);
+	background: hsla(210, 10%, 82%, 1);
 }
 #dialog-user-role .role-menu .menu ul li {
-	border-color: hsla(210,10%,8%,.8);
+	border-color: hsla(210, 10%, 92%, 1);
 }
 .dropdown dd .row:hover,
 .chat-suggestion-item[style='background: rgb(45, 49, 58);'],
