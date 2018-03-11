@@ -208,7 +208,7 @@
 	color: #FFF;
 }
 .dropdown dd, #chat-suggestion, #dialog-user-role .role-menu .menu ul li, #search-suggestion li, #dialog-restricted-media .row.selected {
-	background: hsla(210,10%,10%,.8);
+	background: hsla(204, 69%, 78%, 1);
 }
 #dialog-user-role .role-menu .menu ul li {
 	border-color: hsla(210,10%,8%,.8);
