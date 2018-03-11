@@ -208,17 +208,17 @@
 	color: #FFF;
 }
 .dropdown dd, #chat-suggestion, #dialog-user-role .role-menu .menu ul li, #search-suggestion li, #dialog-restricted-media .row.selected {
-	background: hsla(204, 69%, 78%, 1);
+	background: hsla(210,10%,10%,.8);
 }
 #dialog-user-role .role-menu .menu ul li {
-	border-color: hsla(204, 69%, 78%, 1);
+	border-color: hsla(210,10%,8%,.8);
 }
 .dropdown dd .row:hover,
-.chat-suggestion-item[style='background: rgb(160, 207, 238);'],
+.chat-suggestion-item[style='background: rgb(45, 49, 58);'],
 #search-suggestion .search-suggestion-item.selected,
 #dialog-restricted-media .row.selected,
 #dialog-user-role .role-menu .menu ul li:hover {
-	background: linear-gradient(hsla(204, 70%, 78%, 1), hsla(204, 70%, 78%, 1)) !important;
+	background: linear-gradient(hsla(210,10%,20%,.8), hsla(210,10%,15%,.8)) !important;
 }
 #user-menu .count, .requests .count, .buttons .count, .request-count, .friends .header i {
 	background: radial-gradient(hsl(215,100%,50%), hsl(210,100%,30%)) !important;
