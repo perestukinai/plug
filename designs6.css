@@ -146,7 +146,7 @@
 	background: linear-gradient(to right, hsla(210,10%,40%,0), hsla(210,10%,50%,.2));
 }
 #user-view, #dashboard, #room-settings, #media-panel, #playlist-panel, #history-panel {
-	background: linear-gradient(hsla(204, 69%, 78%, 1), hsla(204, 69%, 68%, 1)) !important;
+	background: linear-gradient(hsla(204, 69%, 78%, 0.32), 1), hsla(204, 69%, 68%, 0.32)) !important;
 }
 #user-menu .item:hover, #room-settings-menu .item:hover {
 	background: linear-gradient(hsla(205,100%,40%,.6), hsla(205,100%,30%,.6));
