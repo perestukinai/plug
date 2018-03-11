@@ -83,16 +83,16 @@
 	box-shadow: inset 0 0 30px #000;
 }
 .app-header, #app-menu.in-room, #footer, #search, #video-only-dj {
-	background: linear-gradient(hsla(210,10%,20%,.8), hsla(210,10%,10%,.8));
+	background: linear-gradient(hsla(302, 100%, 16%, 1), hsla(210,10%,6%,.8));
 }
 .app-header {
 	box-shadow: 0px 1px 10px #000;
 }
 .app-header #history-button {
-	background: linear-gradient(hsl(210,10%,20%), hsl(210,0%,15%));
+	background: linear-gradient(hsl(204, 69%, 78%), hsl(204, 59%, 68%));
 }
 .app-header #header-panel-bar .selected, .app-header #history-button.selected {
-	background: linear-gradient(hsl(220,60%,40%), hsl(220,60%,20%));
+	background: linear-gradient(hsl(220, 60%, 88%), hsl(220, 60%, 88%));
 }
 #footer {
 	box-shadow: 0px -1px -10px #000;
@@ -104,10 +104,10 @@
 	color: hsl(10,80%,55%);
 } 
 #footer .back {
-	background: linear-gradient(hsl(210,10%,30%), hsl(210,10%,20%)) !important;
+	background: linear-gradient(hsl(204, 69%, 78%), hsl(204, 59%, 68%)) !important;
 }
 #footer-user .buttons .button:hover, #footer .back:hover, #video-only-dj:hover {
-	background: radial-gradient(hsl(200,100%,60%), hsl(200,100%,30%)) !important;
+	background: radial-gradient(hsl(204, 69%, 78%), hsl(204, 59%, 68%)) !important;
 	box-shadow: inset 0 0 1px 2px hsla(0,0%,100%,.3) !important;
 }
 #footer-user .buttons .button.inventory:hover .thumb, #video-only-dj:hover .thumb {
@@ -115,7 +115,7 @@
 	box-shadow: 0 0 7px #5bf !important;
 }
 #footer-user .info {
-	background: linear-gradient(hsla(210,5%,10%,.8), hsla(210,5%,5%,.8));
+	background: linear-gradient(hsla(234, 47%, 34%, 0.48), hsla(210,5%,5%,.8));
 	text-shadow: 0 0 5px #000;
 }
 #footer-user .name span {
@@ -125,19 +125,19 @@
 	box-shadow: 0 0 10px hsl(205,100%,50%) !important;
 }
 #footer-user .info .points .pp {
-	color: hsl(200,100%,70%);
+	color: hsl(205,100%,50%);
 }
 .inventory.button .background {
 	visibility: hidden;
 }
 #playlist-button {
-	background: linear-gradient(hsl(205,100%,50%), hsl(205,100%,40%));
+	background: linear-gradient(hsl(0, 75%, 56%), hsl(0, 75%, 56%));
 }
 #playlist-import, #playlist-create {
-	background: linear-gradient(135deg, hsl(205,10%,30%), hsl(205,10%,20%));
+	background: linear-gradient(135deg, hsl(205, 87%, 7%), hsl(205, 87%, 17%));
 }
 #playlist-import:hover, #playlist-create:hover {
-	background: linear-gradient(hsl(205,80%,50%), hsl(205,80%,40%));
+	background: linear-gradient(hsl(353, 80%, 40%), hsl(353, 80%, 30%));
 }
 
 /*--[user-menu]--*/
