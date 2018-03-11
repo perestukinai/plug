@@ -170,11 +170,11 @@
 }
 #the-user-profile .notifications.section .row {
 	border-radius: 10px;
-	background: linear-gradient(hsl(22, 100%, 44%), hsl(22, 100%, 34%));
+	background: linear-gradient(hsl(204, 69%, 78%), hsl(204, 69%, 68%));
 }
 .tab-menu button, #user-settings .container button, .subscribe-button, .dropdown, #dialog-user-role .role-menu {
 	border-radius: 10px;
-	background: linear-gradient(hsl(22, 100%, 44%), hsl(22, 100%, 34%));
+	background: linear-gradient(hsl(204, 69%, 78%), hsl(204, 69%, 68%));
 	box-shadow: inset 0 0 2px hsla(0,0%,100%,.5) !important;
 }
 #user-settings .container button:hover {
