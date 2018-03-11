@@ -211,7 +211,7 @@
 	background: hsla(204, 69%, 78%, 1);
 }
 #dialog-user-role .role-menu .menu ul li {
-	border-color: hsla(210,10%,8%,.8);
+	border-color: hsla(204, 69%, 78%, 1);
 }
 .dropdown dd .row:hover,
 .chat-suggestion-item[style='background: rgb(45, 49, 58);'],
