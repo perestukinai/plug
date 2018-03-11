@@ -208,13 +208,13 @@
 	color: #FFF;
 }
 .dropdown dd, #chat-suggestion, #dialog-user-role .role-menu .menu ul li, #search-suggestion li, #dialog-restricted-media .row.selected {
-	background: hsla(210,10%,10%,.8);
+	background: hsla(204, 70%, 68%, 1);
 }
 #dialog-user-role .role-menu .menu ul li {
-	border-color: hsla(210,10%,8%,.8);
+	border-color: hsla(204, 70%, 78%, 1);
 }
 .dropdown dd .row:hover,
-.chat-suggestion-item[style='background: rgb(45, 49, 58);'],
+.chat-suggestion-item[style='background: rgb(160, 207, 238);'],
 #search-suggestion .search-suggestion-item.selected,
 #dialog-restricted-media .row.selected,
 #dialog-user-role .role-menu .menu ul li:hover {
